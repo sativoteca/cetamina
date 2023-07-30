@@ -1,0 +1,128 @@
+---
+title: "'INTERVENÇÕES NÃO FARMACOLÓGICAS DURANTE O TRATAMENTO DE INFUSÃO DA CETAMINAEM SETTING HOSPITALAR: REVISÃO NARRATIVA.'"
+author: "Marcelo Vidal e Rodrigo Bardon"
+date: "2023-07-30"
+output: 
+  html_document:
+    highlight: textmate
+    theme: flatly
+    number_section: yes
+    toc: yes
+    toc_float: 
+      collapse: yes
+---
+
+# INTRODUÇÃO  
+
+A  cetamina,  classificada  como  um  antagonista  do receptor N-metil-D-aspartato (NMDA), vem se destacando na pesquisa científica e no clínica médica por seu papel potencialmente revolucionário no tratamento de uma variedade de condições psiquiátricas que provaram ser resistentes a outros tipos de tratamento. Notavelmente, a substância demonstrou uma eficácia rápida, proporcionando alívio dos sintomas em questão de horas ou dias, em contraste com os antidepressivos convencionais, que geralmente requerem várias semanas para manifestar seus efeitos ^[BERMAN, R. M. et al. Antidepressant effects of ketamine in depressed patients. Biological Psychiatry, v. 47, n. 4, p. 351-354, 15 fev. 2000] ^[LEE, E. E.; DELLA SELVA, M. P.; LIU, A.; HIMELHOCH, S. Ketamine as a novel  
+treatment for major depressive disorder and bipolar depression: a systematic review and quantitative meta-analysis. Gen. Hosp. Psychiatry, v. 37, p. 178-184, 2015. DOI: 10.1016/j.genhosppsych.2015.01.003] ^[KISHIMOTO, T.; CHAWLA, J. M.; HAGI, K.; ZARATE, C. A.; KANE, J. M.; BAUER,  
+M.; et al. Single-dose infusion ketamine and non-ketamine N-methyl-d-aspartate receptor antagonists for unipolar and bipolar depression: a meta-analysis of efficacy, safety and time trajectories. Psychol. Med., v. 46, p. 1459–1472, 2016. DOI: 10.1017/S0033291716000064
+] ^[ZARATE, C. A. et al. A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression. Archives of General Psychiatry, v. 63, n. 8, p. 856-864, ago. 2006].
+
+Além de sua ação neuroquímica, a cetamina é notória por suas propriedades psicodélicas. Estes efeitos são amplamente variáveis e intimamente ligados à dose administrada. Em doses baixas, a substância pode produzir um estado não ordinário de consciência, onde o usuário pode experimentar uma variedade de efeitos, incluindo alterações sensoriais, percepção distorcida do tempo e espaço, e experiências fora do corpo (LI et al. 2019).  
+
+Além disso, em um ensaio clínico randomizado, todos os participantes tiveram experiências tipicamente psicodélicas durante o tratamento com cetamina. Essas experiências resultaram em mudanças na compreensão sobre a vida, nas relações interpessoais, no enfrentamento de problemas e na percepção de sua própria doença. O estudo também identificou indícios de uma "sensação prolongada do efeito psicodélico", que foi acompanhada por transformações na maneira como os participantes enxergavam a vida, as pessoas e os desafios enfrentados. Notavelmente, houve uma mudança significativa na forma como percebiam sua própria depressão (SUMNER et al, 2019).  
+
+Embora a cetamina tenha demonstrado um notável potencial terapêutico no tratamento de diversas condições psiquiátricas, é importante esclarecer que seu uso não está isento de efeitos adversos. Diversos estudos relatam que muitos pacientes experimentam uma gama de efeitos colaterais durante as sessões de tratamento com a substância. Estes podem incluir dissociação, ansiedade, confusão, entre outros. (ACEVEDO-DIAZ et al, 2018; CEBAN et al, 2018; SHORT et al, 2017).  
+ 
+Esses efeitos adversos destacam a importância de administrar a cetamina em um ambiente clínico/hospitalar controlado, sob a supervisão de profissionais de saúde qualificados. Além disso, ressalta a necessidade de mais pesquisas para entender melhor como manejar esses efeitos colaterais e maximizar os benefícios terapêuticos do tratamento com cetamina.  
+Nesse contexto, é relevante salientar que o debate em torno do uso da cetamina está inserido em uma discussão mais ampla sobre os possíveis efeitos terapêuticos das drogas psicodélicas. Dessa forma, surgem questões importantes a respeito da relação entre esses efeitos e estados não ordinários de consciência, bem como a possibilidade de separar os benefícios terapêuticos da dissociação e de outras dimensões da experiência psicodélica (MASHOUR, 2022).  
+
+Esse debate na comunidade científica reflete visões antagonistas sobre como abordar os efeitos subjetivos da cetamina no tratamento de condições psiquiátricas. Essas questões epistemológicas de como os efeitos dissociativos são abordados torna-se importante, pois reflete diretamente nas intervenções que serão realizadas e, consequentemente, na resposta ao tratamento.  
+
+Por um lado, na perspectiva psicotomimética, o efeito dissociativo da substância é considerado um obstáculo que deve ser contornado para tornar o tratamento mais seguro e tolerável. Diante dessa perspectiva, estratégias para minimizar essas experiências são sugeridas, considerando esses efeitos como efeitos colaterais potenciais (COOPER et al, 2016).  
+
+Por outro lado, é importante destacar que, apesar dos desafios e desconfortos que podem acompanhar os efeitos da cetamina, em estudos mais robustos e aprofundados, observou-se que pacientes que experimentaram efeitos dissociativos durante o tratamento com cetamina frequentemente relataram melhorias mais significativas e duradouras em seus sintomas (LUCKENBAUGH et al, 2014; NICIU et al, 2018).  
+
+Isso sugere uma perspectiva intrigante no entendimento dos efeitos da cetamina. O que é frequentemente descrito como efeito colateral indesejado, particularmente a dissociação, pode ser um componente crucial para a eficácia do tratamento com cetamina. Essa abordagem desafia a visão convencional de que esse efeito é inerentemente negativo.  
+Assim, a experiência do paciente durante a sessão com cetamina é multifatorial e pode ser influenciada por elementos contextuais que influenciam  diretamente na resposta ao tratamento, portanto, diante da crescente expansão de sua aplicação terapêutica, é crucial compreender, de forma abrangente e integral, a experiência subjetiva do paciente durante o tratamento com infusão de cetamina, e que considere tanto os aspectos psicológicos quanto os físicos (CARHART-HARRIS et al, 2018).  
+
+Diante desse contexto, o conceito de “set and setting” se torna fundamental para compreendermos de uma forma mais ampla a complexidade da experiência psicodélica. Esse conceito abrange dois elementos importantes que influenciam a experiência de um indivíduo ao usar substâncias psicodélicas (LEARY et al, 1963).  
+
+Primeiramente, o termo "set" refere-se ao estado mental ou à disposição emocional de uma pessoa antes e durante a experiência psicodélica. Isso engloba vários aspectos, incluindo expectativas, humor, saúde mental geral, emoções atuais e até os objetivos pretendidos com a experiência. Em seguida, o "setting" relaciona-se ao ambiente físico e social onde a experiência psicodélica acontece, que inclui o ambiente, a presença de outras pessoas e suas atitudes, a música, a iluminação, o conforto físico e a segurança. Sendo assim, para garantir uma experiência psicodélica positiva, é comumente sugerido que o ambiente seja seguro, confortável e acolhedor, pois isso ajuda a minimizar a ansiedade e dá ao indivíduo a liberdade para explorar a experiência de forma plena (LEARY et al, 1963; HARTOGSHON, 2017).  
+
+Por fim, para uma compreensão mais completa da experiência psicodélica, é fundamental considerar um terceiro elemento: o conceito de "Matrix". Esse termo leva em consideração a origem do indivíduo, o ambiente onde este indivíduo se encontra durante o período das sessões terapêuticas e o local para onde o indivíduo retorna após a conclusão da terapia, que é o seu ambiente de vida cotidiana (EISNER, 1997).  
+
+Dessa maneira, "Set, Setting e Matrix" são vistos como fatores importantes para a natureza e a qualidade da experiência psicodélica do indivíduo, constituindo-se como pilares fundamentais para uma intervenção mais segura e efetiva, portanto, é necessário considerar a atuação de um suporte psicológico adequado que considere elementos para além do efeito farmacológico produzido pela cetamina.  
+
+Portanto, quando essas experiências são adequadamente conduzidas, podem  ter  um  impacto  profundo  e  o potencial de provocar transformações substanciais. Esse processo pode levar a uma maior compreensão de si mesmo e de suas experiências, e a diminuição dos sintomas das condições psiquiátricas (DORE et al, 2018).  
+
+Estes efeitos podem diretamete ligados a ação neuropsicofarmacológica da cetamina, e pode auxiliar no "reconfigurar" das redes neurais que estão envolvidas em diversas condições psiquiátricas. Essa "reconfiguração" pode facilitar a quebra de padrões de pensamento negativos, permitindo um novo aprendizado e adaptabilidade emocional, o que pode resultar em uma melhoria mais duradoura dos sintomas (https://www.nature.com/articles/s41398-023-02451-0).  
+
+É importante mencionar que, apesar de evidências científicas cada vez mais sólidas do potencial terapêutico dessas substâncias em diversos transtornos psiquiátricos (FUENTES et al, 2020; VAN & BRINK, 2022; LI et al, 2022; SARRIS et al, 2022; VAMVAKOPOULOU et al, 2022), os psicodélicos ainda são compostos proibidos na maioria dos países, com exceção da cetamina, que é considerada um psicodélico não clássico (MENDES et al, 2022), e o uso off-label para condições psiquiátricas é permitido no Brasil (ANVISA, 2022).  
+
+A partir dessas referências teóricas, consideramos a perspectiva da experiência psicodélica ao longo deste trabalho para indicar o efeito subjetivo da dose sub anestésica de cetamina e adotamos a abordagem da Redução de Danos, que auxilia os pacientes a compreenderem melhor os riscos e benefícios do uso de psicodélicos. Além disso, incentiva-os a explorar métodos alternativos para atingir seus objetivos e a criar intenções que maximizem os benefícios terapêuticos dessa substância. Essa abordagem, ao reconhecer a autonomia do paciente, apoia suas escolhas de vida, visando minimizar os riscos e maximizar os benefícios. Nesse cenário, os profissionais de saúde podem se reunir com os pacientes para ajudá-los a processar a experiência, elucidar os aprendizados ou insights obtidos, prover suporte para possíveis desafios enfrentados e auxiliar na tradução da experiência em mudanças significativas e duradouras (PILECKI, 2021).  
+
+Deste modo, espera-se que este artigo elucide quais intervenções não farmacológicas podem melhorar a experiência do paciente durante o tratamento com cetamina em setting hospitalar, e contribua para o acesso a intervenções de tratamento que não patologizem a experiência subjetiva dos pacientes, pois as descobertas podem impulsionar uma abordagem para além de uma perspectiva neuro reducionista, e que considera os aspectos psicossociais e espirituais dos indivíduos. Por fim, esse estudo pode fornecer subsídios valiosos para aprimorar a compreensão e o tratamento de condições relacionadas à saúde mental.  
+
+Diante do exposto, este artigo de revisão narrativa tem como objetivo identificar potenciais intervenções não farmacológicas que possam atuar de forma conjunta com a ação farmacológica da infusão de cetamina em setting hospitalar. A revisão abordará práticas de preparação e suporte ao paciente e estratégias de integração pós sessão, com o objetivo final de fornecer possíveis intervenções para práticas clínicas humanizadas e centradas em um modelo de cuidado ampliado.  
+  
+# METODOLOGIA  
+
+A metodologia deste artigo adota uma abordagem de revisão narrativa para explorar a literatura existente sobre possíveis intervenções não farmacológicas utilizadas no tratamento com cetamina. Implementamos uma busca eletrônica em bancos de dados científicos de destaque, incluindo PubMed, Scopus e Web of Science.  
+
+Para a estratégia de busca, incluímos na nossa revisão artigos em inglês de acesso aberto, que utilizam terapia assistida com cetamina e outros psicodélicos clássicos.empregamos os seguintes termos e expressões: "Ketamine", "Ketamine Infusion", "Psychedelic Therapy", “Psychedelics assisted Psychoterapy” , Ketamine assisted Psychotherapy" e "Ketamine Therapy with Psychoterapy". A fórmula de busca principal é: (“Ketamine” OR "Ketamine Infusion") AND ("Ketamine assisted Psychotherapy" OR “Psychedelic assisted Therapy”).  
+
+## Expressões de busca:  
+
+### Scopus:  
+
+* Query:  ( TITLE-ABS-KEY ( ketamine OR "Ketamine Infusion" ) AND TITLE-ABS-KEY ( "Psychedelic Therapy" OR "Ketamine assisted Psychotherapy" OR "Psychedelic assisted Therapy" ) ) AND PUBYEAR > 2002 AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) ) AND ( LIMIT-TO ( OA , "all" ) )
+* Resultados: 36 documents  
+
+### Web Of Science:  
+
+* Query:  (((ALL=(ketamine OR "Ketamine Infusion")) AND ALL=("Psychedelic Therapy" OR "Ketamine assisted Psychotherapy" OR "Psychedelic assisted Therapy")) AND DT=(Article OR Review)) AND PY=(2003-2023)
+* Resultados: [27 documentos](https://www.webofscience.com/wos/woscc/summary/bf32c08c-4a99-418d-b9cc-93f2352735d0-9ada3661/relevance/1)
+
+### PubMed:  
+
+* Query: (ketamine OR "Ketamine Infusion") AND ("Psychedelic Therapy" OR "Ketamine assisted Psychotherapy" OR "Psychedelic assisted Therapy")
+* filtros: Free full text e Yeaar 2003-2023
+* Resultados: [9 documentos](https://pubmed.ncbi.nlm.nih.gov/?term=%28ketamine+OR+%22Ketamine+Infusion%22%29+AND+%28%22Psychedelic+Therapy%22+OR+%22Ketamine+assisted+Psychotherapy%22+OR+%22Psychedelic+assisted+Therapy%22%29&filter=simsearch2.ffrft&filter=pubt.clinicaltrial&filter=pubt.meta-analysis&filter=pubt.randomizedcontrolledtrial&filter=pubt.review&filter=pubt.systematicreview&filter=dates.2003-2023&size=200)
+
+## COMPILAÇÃO DOS DADOS   
+
+### bibliometrix  
+
+Abrindo o pacote de análise bibliométrica.  
+
+```{r}
+if (!require(bibliometrix)) {
+  # Caso não esteja instalado, instala o pacote bibliometrix e suas dependências
+  install.packages("bibliometrix", dependencies=TRUE)
+  # Carrega novamente o pacote
+  library(bibliometrix)
+}
+  library(knitr)
+  library(kableExtra)
+  library(htmltools)
+  library(dplyr)
+  library(rmarkdown)
+```
+
+## COMPILAÇÃO DOS DADOS {.tabset}
+
+### Scopus
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+dados_scopus <- bibliometrix::convert2df("dados/scopus.bib", dbsource = "scopus", format = "bibtex")
+# kable(head(dados_scopus, 10))
+dplyr::glimpse(dados_scopus)
+```
+
+### Web of Science
+```{r}
+dados_wos <- bibliometrix::convert2df("dados/savedrecs.bib", dbsource = "isi", format = "bibtex")
+dplyr::glimpse(dados_wos)
+```
+
+
+## COMPILAÇÃO DOS DADOS
+
+```{r}
+dados_brutos <- bibliometrix::mergeDbSources(dados_scopus, dados_wos, remove.duplicated = TRUE)
+dplyr::glimpse(dados_brutos)
+resumo <- bibliometrix::biblioAnalysis(dados_brutos)
+graficos_bibliometrix <- plot(resumo)
+```
+
