@@ -65,6 +65,9 @@ Para a estratégia de busca, incluímos na nossa revisão artigos em inglês de 
 
 ## Expressões de busca:  
 
+- ketamine OR "Ketamine Infusion"
+- "Psychedelic Therapy" OR "Ketamine assisted Psychotherapy" OR "Psychedelic assisted Therapy"
+
 ### Scopus:  
 
 * Query:  ( TITLE-ABS-KEY ( ketamine OR "Ketamine Infusion" ) AND TITLE-ABS-KEY ( "Psychedelic Therapy" OR "Ketamine assisted Psychotherapy" OR "Psychedelic assisted Therapy" ) ) AND PUBYEAR > 2002 AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) ) AND ( LIMIT-TO ( OA , "all" ) )
